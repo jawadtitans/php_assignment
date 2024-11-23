@@ -57,7 +57,7 @@ Members can view and pay for their membership or upcoming classes.
 Include relevant images here (e.g., the login screen, dashboard, etc.) for better understanding.
 
 Admin Panel page in the bellow:
-https://th.bing.com/th/id/OIP.jq7w03qjG45hTd56Le9tygHaFR?rs=1&pid=ImgDetMain
+![Home Screen](https://th.bing.com/th/id/OIP.jq7w03qjG45hTd56Le9tygHaFR?rs=1&pid=ImgDetMain)
 
 **Contributing**
 We welcome contributions from the community! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
